@@ -426,4 +426,10 @@ form:hover .form-button button{
 		transform: translate(0px);
 		margin: 30px 0;
 	}
+	.contactus{
+    	margin-top: 100%;
+    }
+    .footer-section h3{
+    	text-align: center;
+    }
 }
